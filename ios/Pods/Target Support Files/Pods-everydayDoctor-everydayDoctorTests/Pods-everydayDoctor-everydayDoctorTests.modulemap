@@ -1,0 +1,6 @@
+module Pods_everydayDoctor_everydayDoctorTests {
+  umbrella header "Pods-everydayDoctor-everydayDoctorTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
